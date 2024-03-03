@@ -1,0 +1,43 @@
+{
+  "name": "random-time-react",
+  "version": "0.0.1",
+  "description": "npm for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "time",
+    "react"
+  ],
+  "author": "TiffanyA26806",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/TiffanyA26806/random-time-react"
+  },
+  "dependencies": {
+    "time-pop-ts": "^0.0.1",
+    "ethers": "^5.0.0",
+    "alipay-js-pop": "^0.0.1",
+    "config-alert-live": "^0.0.1",
+    "quick-toast-cmd": "^0.0.1",
+    "auto-random-baidu": "^0.0.1",
+    "facebook-core-cpp": "^0.0.1",
+    "color-game-time": "^0.0.1",
+    "server-pop-kit": "^0.0.1",
+    "io-modal-math": "^0.0.1",
+    "io-weixin-facebook": "^0.0.1",
+    "loader-config-tool": "^0.0.1",
+    "log-toast-reducer": "^0.0.1",
+    "plus-upload-color": "^0.0.1",
+    "mono-parse-web3": "^0.0.1",
+    "server-mono-cmd": "^0.0.1",
+    "science-setup-pop": "^0.0.1",
+    "math-parse-log": "^0.0.1",
+    "pwd-csv-live": "^0.0.1",
+    "finder-io-node": "^0.0.1",
+    "setup-game-alipay": "^0.0.1",
+    "game-mp-alert": "^0.0.1"
+  }
+}
